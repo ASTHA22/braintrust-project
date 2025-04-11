@@ -4,6 +4,8 @@
 
 # Exclude environment variables file (for security)
 .env
+# But include the template
+!.env.template
 
 # Python cache files
 __pycache__/

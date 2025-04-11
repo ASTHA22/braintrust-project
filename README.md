@@ -9,8 +9,9 @@ This project demonstrates how to integrate with Braintrust for LLM evaluation an
    - Create a new Project in the Braintrust UI
 
 2. **Configure Environment Variables**
+   - Copy the `.env.template` file to `.env`: `cp .env.template .env`
    - Update the `.env` file with your Braintrust API key
-   - Update the `.env` file with your OpenAI API key
+   - Update the `.env` file with your OpenAI API key (if needed)
 
 3. **Install Dependencies**
    ```
@@ -27,6 +28,7 @@ This project demonstrates how to integrate with Braintrust for LLM evaluation an
 - `braintrust_logger.py` - Main script to log LLM calls to Braintrust
 - `requirements.txt` - Python dependencies
 - `.env` - Environment variables for API keys
+- `.env.template` - Template for environment variables
 
 ## Slack-style Answer to Customer Question
 
