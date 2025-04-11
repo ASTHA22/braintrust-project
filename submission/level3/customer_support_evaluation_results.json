@@ -1,0 +1,67 @@
+[
+  {
+    "example_id": 1,
+    "query": "How do I reset my password?",
+    "actual_output": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email.",
+    "expected_output": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email.",
+    "scores": {
+      "completeness": 0.5,
+      "accuracy": 1.0,
+      "helpfulness": 1.0,
+      "tone": 0.0,
+      "overall": 0.75
+    }
+  },
+  {
+    "example_id": 2,
+    "query": "What are your pricing plans?",
+    "actual_output": "We offer three pricing plans: Basic ($10/month), Pro ($25/month), and Enterprise (custom pricing). Each plan includes different features and usage limits.",
+    "expected_output": "We offer three pricing plans: Basic ($10/month), Pro ($25/month), and Enterprise (custom pricing). Each plan includes different features and usage limits.",
+    "scores": {
+      "completeness": 0.25,
+      "accuracy": 1.0,
+      "helpfulness": 1.0,
+      "tone": 0.0,
+      "overall": 0.675
+    }
+  },
+  {
+    "example_id": 3,
+    "query": "How do I cancel my subscription?",
+    "actual_output": "You can cancel your subscription by going to Account Settings > Billing > Cancel Subscription. Your service will continue until the end of the current billing period.",
+    "expected_output": "You can cancel your subscription by going to Account Settings > Billing > Cancel Subscription. Your service will continue until the end of the current billing period.",
+    "scores": {
+      "completeness": 0.5,
+      "accuracy": 1.0,
+      "helpfulness": 0.75,
+      "tone": 0.0,
+      "overall": 0.7000000000000001
+    }
+  },
+  {
+    "example_id": 4,
+    "query": "Do you offer a free trial?",
+    "actual_output": "Yes, we offer a 14-day free trial for all our plans. No credit card required to start your trial.",
+    "expected_output": "Yes, we offer a 14-day free trial for all our plans. No credit card required to start your trial.",
+    "scores": {
+      "completeness": 0.6666666666666666,
+      "accuracy": 1.0,
+      "helpfulness": 0.75,
+      "tone": 0.0,
+      "overall": 0.75
+    }
+  },
+  {
+    "example_id": 5,
+    "query": "How can I contact customer support?",
+    "actual_output": "You can contact our customer support team via email at support@example.com, through live chat on our website, or by calling 1-800-EXAMPLE during business hours.",
+    "expected_output": "You can contact our customer support team via email at support@example.com, through live chat on our website, or by calling 1-800-EXAMPLE during business hours.",
+    "scores": {
+      "completeness": 0.6666666666666666,
+      "accuracy": 1.0,
+      "helpfulness": 1.0,
+      "tone": 0.3333333333333333,
+      "overall": 0.8333333333333334
+    }
+  }
+]
