@@ -1,4 +1,4 @@
-# Braintrust Integration Project
+# Braintrust Project
 
 This project demonstrates how to integrate with Braintrust for LLM evaluation and logging. It includes implementations for all four levels of the Braintrust challenge:
 
